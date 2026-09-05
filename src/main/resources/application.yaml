@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: moviesv2
+  jpa:
+    hibernate:
+      ddl-auto: none
+    database: postgresql
+  datasource:
+    url: <URL>
+    username: <USERNAME>
+    password: <PASSWORD>
