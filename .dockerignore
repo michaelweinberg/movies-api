@@ -1,0 +1,10 @@
+.git
+.gitignore
+.idea
+target
+bin
+sql
+*.md
+Dockerfile
+.dockerignore
+.env
