@@ -4,7 +4,7 @@ spring:
   jpa:
     hibernate:
       ddl-auto: none
-    database: ${POSTGRES_DATABASE}
+    database: postgresql
   datasource:
     url: ${POSTGRES_URL}
     username: ${POSTGRES_USERNAME}
